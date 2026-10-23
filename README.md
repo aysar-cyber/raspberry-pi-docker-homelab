@@ -51,6 +51,13 @@ Void Linux ThinkPad
 ### Network Monitoring
 - Configured Uptime Kuma to monitor router availability
 - Verified connectivity and monitored uptime
+## Screenshots
+
+### Uptime Kuma monitoring dashboard
+
+The dashboard displays the availability and uptime of my home router
+
+![Uptime Kuma Dashboard](Screenshots/uptimekuma.png)
 
 ## Troubleshooting
 
